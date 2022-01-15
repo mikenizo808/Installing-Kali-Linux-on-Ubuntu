@@ -56,7 +56,7 @@ Finally, power on the system and go through the guided install.  You will need t
 ## Login to `kali`
 With your VM powered on, click onto the screen so the console takes focus, then you can login with your user and password created earlier during setup.
 
-*Tip: By default `kali` will make you type in the username and password, so be careful not to type your password into username field!*
+*Tip: By default `kali` will make you type in the username and password, so be careful not to type your password into the username field!*
 
 ## Update Kali
 Launch a terminal and perform the following.
