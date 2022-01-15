@@ -67,3 +67,8 @@ Launch a terminal and perform the following.
 
 ## Summary
 In this write-up, we got you up and running with `kali` Linux as a virtual machine on `Ubuntu`.
+
+## Next Steps
+Next, you might want to install some tools.
+
+    https://github.com/mikenizo808/Setting-up-Kali-for-Analyzing-or-Debugging-Binaries
