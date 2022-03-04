@@ -64,6 +64,7 @@ Launch a terminal and perform the following.
     sudo apt update
     sudo apt upgrade -y
     
+*Note: If you get errors when updating, try using `sudo apt full-upgrade -y`*
 
 ## Summary
 In this write-up, we got you up and running with `kali` Linux as a virtual machine on `Ubuntu`.
